@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **Personal web**
 
 - 🌱 I’m currently learning **Github, C++, Python**
